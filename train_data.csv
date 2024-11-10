@@ -1,0 +1,57 @@
+cleaned_text,label
+"['gelisah', 'bgt', 'astaga']",negatif
+"['tidur', 'susah', 'pikir', 'kacau', 'hati', 'gelisah', 'selaras']",negatif
+"['serba', 'salah', 'mundur', 'sayang', 'maju', 'ragu', 'diem', 'resah', 'gelisah']",netral
+"['udah', 'ngalihin', 'fokus', 'tetep', 'cemas']",netral
+"['resah', 'gelisah', 'deh', 'mimin', 'dah', 'bulan', 'coy', 'maksudx']",negatif
+"['istirahat', 'gelisah', 'kyk', 'yg', 'ganjel', 'tp', 'ya']",netral
+"['takut', 'cemas', 'moga', 'keluarga', 'lindung']",negatif
+"['gk', 'sih', 'ngerasain', 'gelisah', 'gk', 'tau']",netral
+"['udaa', 'hari', 'tidur', 'gue', 'ga', 'nyenyak', 'bgt', 'kaya', 'gelisah', 'gt', 'yaaa']",negatif
+"['benerbener', 'cemas', 'ken', 'nang']",netral
+"['gelisah', 'malem', 'pdahal', 'gatau', 'salah', 'aneh']",netral
+"['bingung', 'ga', 'enak', 'bgt', 'tidur', 'bawa', 'gelisah']",negatif
+"['kdg', 'dibutuhin', 'kalo', 'ketawaketawa', 'sampe', 'lupa', 'kalo', 'pas', 'inget', 'kayak', 'gelisah', 'aj', 'gitu', 'yahh', 'anj', 'msh', 'beban', 'sedih', 'asdfghjklzxccvbnm']",netral
+"['kadang', 'pikir', 'bikin', 'cemas', 'takut', 'nutupin', 'mata', 'ga', 'tidur']",netral
+"['bangun', 'tidur', 'gelisah', 'degan', 'sampe', 'cobak']",negatif
+"['cuman', 'moga', 'harap', 'cemas', 'kalo', 'awal']",netral
+"['restive', 'gelisah', 'resah']",negatif
+"['sali', 'dendammarah', 'halhal', 'taruh', 'cemas', 'tenang', 'sejati']",netral
+"['kalo', 'cowok', 'sakit', 'cewek', 'ngerasa', 'sakit', 'ga', 'langsung', 'asa', 'nya', 'gak', 'tenang', 'gelisah']",netral
+"['orang', 'cemas', 'orang', 'ihklas', 'orang', 'khawatir']",netral
+"['jaya', 'online', 'at', 'am', 'tidur', 'gelisah', 'what', 'is', 'wrong', 'with', 'me']",negatif
+"['gk', 'tidorrgelisah', 'aja', 'bawa']",negatif
+"['udah', 'cemas', 'ngangjat', 'telpon']",netral
+"['resah', 'gelisah', 'rasa', 'salah', 'maaf', 'baik']",negatif
+"['gelisah', 'bgt', 'dah', 'pagi']",netral
+"['bikin', 'gelisah', 'mulu', 'anjg']",negatif
+"['ngantuk', 'tp', 'gelisah', 'pas', 'tidur', 'tuh', 'gimana']",negatif
+"['gua', 'yaudah', 'mood', 'beranta', 'trus', 'tuh', 'jantung', 'kayak', 'detak', 'kuat', 'banget', 'gelisah', 'banget', 'rasanyaada', 'ya']",negatif
+"['gaje', 'bgt', 'si', 'ra', 'tbtb', 'gelisah', 'kekk', 'paaan', 'sihhh', 'gblok']",negatif
+"['patah', 'rapuh', 'luka', 'sanggup', 'tahan', 'gelisah', 'tahan', 'sayang', 'samapi', 'abai', 'lihat', 'tinggal', 'yg', 'mangkanya', 'mundur', 'ya']",netral
+"['saran', 'lagu', 'bikin', 'tenang', 'gatau', 'tibatiba', 'muncul', 'asa', 'gusargelisah', 'gin', 'thanks']",netral
+"['gelisah', 'terooosss', 'huuu']",negatif
+"['hati', 'nggak', 'cemburu', 'gelisah', 'kecewa', 'gagal']",negatif
+"['jd', 'biasa', 'dr', 'sd', 'gua', 'mikir', 'jd', 'cemas', 'gk', 'tidr']",negatif
+"['kemarin', 'kemarin', 'ngerasa', 'ga', 'mood', 'sensitiv', 'bgt', 'parah', 'asa', 'gelisah', 'kaget', 'bnyk', 'kejut', 'hari', 'yg', 'bikin', 'otak', 'gue', 'mo', 'ledak', 'org', 'sasar', 'mood', 'yg', 'turuntpi', 'ngerasa', 'syukur', 'banget', 'drama', 'perkuliahaan', 'slesai']",negatif
+"['malam', 'oceh', 'uang', 'ku', 'bingung', 'bilang', 'cemas', 'uang', 'oceh', 'uang']",netral
+"['ngerasa', 'gelisah', 'bgt']",negatif
+"['yak', 'allah', 'gelisah']",negatif
+"['hati', 'mah', 'tetep', 'gelisah', 'mulut', 'ngomong']",negatif
+"['tunggu', 'ketidakpastian', 'harap', 'harap', 'cemas']",netral
+"['orang', 'cemas', 'orang', 'ikhlas']",netral
+"['baca', 'au', 'gak', 'sih', 'bawa', 'rl', 'maksud', 'suasana', 'gin', 'yaa', 'mood', 'ku', 'turun', 'gelisah', 'mulu', 'baca', 'au', 'topik', 'nya', 'mental', 'illness', 'harihari', 'ku', 'gak', 'tenangdan', 'takut']",negatif
+"['hai', 'cerita', 'akhirakhir', 'gelisah', 'susah', 'tidur', 'cari', 'google', 'sih', 'gejala', 'depresi', 'ringan', 'bilangin', 'tmn', 'mama', 'ku', 'psikolog', 'berfikir', 'yg', 'gk', 'mudah', 'depresi', 'trs', 'nafas', 'tdk', 'atur']",negatif
+"['udah', 'gelisah', 'mulu', 'skrg', 'mual', 'kaya', 'org']",negatif
+"['o', 'tiada', 'ku', 'gelisahakan', 'jelang', 'jalan', 'yesusmaka', 'hati', 'tenang', 'nyanyi', 'lagu', 'ku', 'esok', 'bagi', 'ken', 'nangissoalnya', 'nyanyi', 'melakukannyamaaf', 'tuhan', 'khawatir']",negatif
+"['kendali', 'cemas', 'mudah', 'dengar']",negatif
+"['pandemi', 'gabuka', 'laptop', 'hari', 'asa', 'gelisah', 'ky', 'beban', 'hidup', 'berat', 'banget']",negatif
+"['orang', 'gelisah', 'takut', 'sentuh', 'wajah', 'bunyi', 'jarijari', 'tangan']",netral
+"['tau', 'ga', 'rek', 'ngeroso', 'akeh', 'pikir', 'tp', 'mbo', 'opo', 'seng', 'pikir', 'rasane', 'gelisah', 'ae']",negatif
+"['asikk', 'udah', 'libur', 'sekolah']",positif
+"['bangun', 'siang', 'senin', 'senang']",positif
+"['bangun', 'tdr', 'neng', 'bgt', 'soalna', 'abis', 'mimpi', 'nyium', 'tangan', 'harry', 'pas', 'konser']",positif
+"['senin', 'tuh', 'bahagia']",positif
+"['mimpiin', 'hehehe', 'neng']",positif
+"['neng', 'banget', 'dream', 'million', 'seller', 'hebat']",positif
+"['bangga', 'bgt', 'dreamies', 'mrk', 'neng', 'bgt']",positif
